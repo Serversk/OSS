@@ -142,8 +142,7 @@ Displays system-level information:
    ```bash
    chmod +x script_name.sh
    ./script_name.sh
-  ```
-```
+
 3. Ensure you are on a Linux system (preferably Arch-based for full compatibility)
 
 ---
