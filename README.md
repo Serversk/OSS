@@ -1,4 +1,3 @@
-```markdown
 # 🐧 Open Source Audit — Linux Kernel
 
 A capstone project exploring the philosophy, architecture, and ecosystem of the **Linux Kernel** as part of an Open Source Software course.
@@ -143,7 +142,7 @@ Displays system-level information:
    ```bash
    chmod +x script_name.sh
    ./script_name.sh
-````
+  ```
 
 3. Ensure you are on a Linux system (preferably Arch-based for full compatibility)
 
@@ -161,5 +160,3 @@ Course: Open Source Software
 
 This project is for academic purposes.
 Linux Kernel referenced under **Apache 2.0**.
-
-```
